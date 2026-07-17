@@ -1,0 +1,29 @@
+{
+  "users": [
+    {
+      "id": "UflsPnFvrrlud0vDyY5fs",
+      "username": "dave",
+      "email": "dave@test.com",
+      "password": "$2b$10$6e93.qj1jie54rwrNTW6teHRQZkchGY.CHB5hNVbHLR8JWS/rHQBe",
+      "createdAt": "2026-07-17T18:39:56.774Z",
+      "lastLogin": "2026-07-17T18:39:57.043Z"
+    }
+  ],
+  "wallets": [
+    {
+      "userId": "UflsPnFvrrlud0vDyY5fs",
+      "cash": 10000,
+      "bitcoin": 0,
+      "ethereum": 0,
+      "solana": 0,
+      "binancecoin": 0,
+      "portfolioValue": 10000
+    }
+  ],
+  "transactions": [],
+  "leaderboard": [],
+  "settings": {
+    "appName": "CryptoVest Pro",
+    "version": "2.0.0"
+  }
+}
